@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FlyDangerFox</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-01-21T06:49:56.822Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>author</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018城堡的来客</title>
+    <link href="http://yoursite.com/2020/01/21/2018%E5%9F%8E%E5%A0%A1%E7%9A%84%E6%9D%A5%E5%AE%A2/"/>
+    <id>http://yoursite.com/2020/01/21/2018%E5%9F%8E%E5%A0%A1%E7%9A%84%E6%9D%A5%E5%AE%A2/</id>
+    <published>2020-01-21T05:40:08.000Z</published>
+    <updated>2020-01-21T06:49:56.822Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">输入密码，查看文章</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="ee5463bde0d5fb1598d0a756e63791d6bc9e4de2ff72b6cac53f2a2721d94774">20149525aafee55ff364b700c5d6e711572e3750753166c4e389e02ddebff92ee87edb7df56c47d125e13c20928f1b9fb58ae04e0d3e00dc3c2c2c1bb4af01f7ee6df63bc84a14f77321e544ee636893dceaf932c53c230694a5e211d9a73ac62b058c1d195f6f4f4e58679578b1bc223b9c3c77da028c219a3e3b58c2a66cda26aa356aa4e9e2fdfc927c4a5776330f711bf0d840d2900796443f7131954919e7823b146dd2c30e5035044ae44bb5914097b79d4ef7c063a4c5b64b652095e72d1019ebd1965be853f29f76327efb05bcb797b904091aa05c1e1d63fc0f9f38ae8b9e2dfeb252ab15e87b251313e1e3e366e53f687d89e7c3150600b83a894a33c5a2593e74492bef828eab0be86ca6fca5b0aeaa0750f87d97e4670fb08df82bec687b40935f9cb201c65b209daa85c0b9a3651abb691b171f6e4505fe0cf24477c86b55205a952ed6be6851187ed51806b28d2c47ce8bfa2b075e7676b6a1e994f332fa5bcaa78b874bd11a9fa229536d7a98b010df6084759d152f67761f1f85fcf03a27f898c5c39153e4448ae5f5df3c0425c5e7a268da7ef390e0ab03991f9a456bac049878fc9d168505b6641e32aff5369d54fc35681961243733998d936733cafcb8f974c2cba871a37a237531ad7a4d8f78bf668caf073d10c8aed68237239a2e74ef28fc9c76892666113f741604dd9d1ae85edc8897d6fe797ac8218f82769833530cf1290172c2680584f1ddc8b2c3295dca9dca6b674956c6aa2884c458b2c56f37a4d86383baa5601e56357d4bd2936fba0def6ccf801b7eefc7c5eec10bb5b881c689ab552f842f02a4b843c8bb0c6052e3f24355da7f40f0ce6907a14e761b1c44b9fe007715b850885b2d2d281acf5731ccfd6be2917129872273af5de7c30a86e53adb8d57d1da2a4427ebff8697ad6760ff676d3004f95583bf996bd2d01160406a159883eb87cbe5c1e047d4c665502d257cae08cd728cd810bd97c3be35ca0d52626ea5e580bb09f2897a27ebf2eb9455317dc531717cd5146487fbc8400c4a9a44b275a2d1680dfa069f73e877b284825a46b724c0a1088abb4dd3a8807a697ebba904354a10ddcbf600993b539113cffd0160927a8432bb1dc15bec520bf80555d8adc0da9ec7f972c04c3116ff2b5327ef679afd9f202e651d5e18d1e26fbe31df7483d664efd8dea5d89fa70aaa0089349bc77a5ce21cbef6928f32502d07d2b2db70f0176a6f86592bc989829ac9f90da179e517b3a471b24ce0d02c8b3c98878b7421dcb7474d231af2ac04775594cf2d3e60e81887e2e5e89daded58f374c89bec938715a44c5efe309ecf6ee6fa6e9e54c132029a3b1f0997c4ab3a0ebe7a6ff939a32ee16efdee7ea18490a8bb63f5d328df3ca0064fa2b6db91312e218c860ec3cbf765e302cff3b831dccf2435d983604ea9fdd7a9be66aabd2d488097bf811c80c2c3f03dd766a89b71bc2964178e5cd87c4e56f2f78556fc995dfc34dbed0241baf6dbed629d79002b5502f456c74461483e92a974c8331fb43f86e03caa17d794430776b684a6902a040031f78f9ee4e5282e002c60e0571c50c5c28957e76293b6d02a0b34f2be20e66232d7685632b842c0a23be789480ba0ab73da39589dabc88875f025b64153fe2088e812307fe48c1181dbf9a0959915850b48a5261f03fa4836393cbd80997baaaadcf69270be5b629a89af9bcfcce59a1604996aa081ceee6284b86949e7b07c4577ce4ca72c4f654ad8bff6b8533f8e26280a8df0eab5eadbf7e589314d2862f145370d1f60d5130897f12a19288ad5489c319e33465e9b466d4bbe15e6a60ea4310420bfbe1c95e6ca8be2816c3881b0e43cdc52e68838524492f29e4e571297646ce4ec1a36e02366417f8ba0f5e07049da78a2d779866c7aff7d855a0526699c318f96f53b951e056e8617948728e737dd7c8673876b73c9d53badd741987d6924db620cdbf15e96b975a62b603d606984e671b17c19bb2b3f024d6c945d06516c0333f66d069d4566a2ba530a47350e98b988ab53ceeb392e601d31615d9ddef3bf162a126243a01139a4524754e1b76c6fd4be1de9bdffddedf140d099e6b229fbc4b007cfc7ba662b7ec9db03094db7e81bd2cb13762913c67900cfda2c473fc692bcd92e35aa855ba7fbc96621d9ef13ee0c0811c59da00c05734952f6ce78aa320e888b45bfdca683c4f0901ee738c27493d7dece0e123762536b590696fc056425307dce1ddb821e7ddce47be78a6ad15b2a9312086cc4237cc16b64f03d7e0f5b50941c0b906a23731b2bfb9a50a089d5035d7c63dda82c2b998827f35f9c4d483e5c427da024f2998410c196b9cb4aa950e31f776078972ec28c770d9d53214dcb9b8bdcb51e3cac174017e5ecf1bc55f10c0f7fb89766eb7ca5dc89f6bcc4368a6beb8e7d4326c97eb340458f5a4aae8de9108e1b5c87ca9818f03f2963bac6a51407c7c51d37b63223a2647c539e97285ff3aaeeeaefed67b384351190113349cfca30c9608884ab29065417d6a601324438f22e4f280810901e643b8f81c3124fffc444f0fc8efcd4570e858ce1756b7a6f3f167ea73d8110f78fbcab6bd79ceea013cb833c72008634bf97a71c507589b14c63347ae3ff4115689a1b5a3dc101b8de929798bfe815e7589d4694c440a31665f7db97e68060aa1f99fe70a40387b1dae2488ed1eee492dcb2eb4d7b5484fdad8ef57a3ff7c1758637f1776edff6b91bdb8456e556a6343efb24d912a690010338236ed60ccc055cb6ebe80323da0b05be6b695ca471866a2cd6ca31cc95326c2ec52a7045307db2a9aabe336707a91afd20da3eebada0044c599cbaf062ebefce2f3fc524a25237caf268b3bf249a8a950284a801600d3cf5a030d147d496abc2c9e43e2df325801847b828d9c73588e64b5e524f40bd30e2e7d41af0c613d504b3e0973002471fc368a0f11ba3a428db5e6e2ca3d58baa9203596a660f9ff183e21815c56647b9e625465bb501b3320d0080fc771294007ce5ede8283b95b7f55688ca562ed0c07b2c3c103d39b9651e2b8237150d8a70b4dbd45de3b688927d99b9b09f951cd4edc0c734725dd41ce746d8b84c669714a11b2cee99debf379a6085dc2180c26aca4cfe05b69ef8e87f18bb5e84a0517d5ae4ff23c506c22bee9436d8df840c783aa6cd89332bd5c728eb9ae3766eef042bbd0e9912ff3bc2adae11b814a5a570d12b63defe2140ceec416571edfa56c338c864928634c2a0beb122511c356aef29799ca0f1c3c284a7770fb60c03ade4b88dcca3bdf355bd3ee2e5bec0cc8d71fddc3839da4538a83f3a5b69cfd4a36dd22d3a1981e739ac1424ec6b368b54d59e34d83ee4bc8f437bad235579da9c5f2469a99e3b2b6a0d5359250d0c7d5aafbc44bc346e6f3df5d9b665048f3222369a3ec3eda447fd0f410d96a8bdc8bef3ab740898c9651ced8a579101d0371eff516da01c4a5109914377f752052250aa542cdc8954f3298516bdfab8cbcc2625c52e03947feb58efb2c391a281f51b649ce918031b41236adf93ff20eb9b8fcef2a71eebea063f08bfc8c8b9610fdd0953149665b58ba6255bbd72efeb7323fa785b4b6e617930315fdfa454668006dd9c21f168127a62a8fb675cf35df6e45b146ca2483b00a5bda8e0fac543ab557c822f58767fbc8d3165d9e36a60e52d7d7d9125d18d74dd8b840ff36422bb43f836b5355d0acd8fabb0a5607c2aaedf7b3221821d2833df5773a4a4cd675940ea72191591334f21c91b2131ba86fd75e5deb09f05063153fba30249b78ebda31a11ab206abcbacc7cb73cff320eb015b89239eaeed1a5b9d8b2446dae2657dd14ef51ac5e49210925af059952f0ed3bec05c7636d831744c6f9bd91d9fe03b65d36ac2fb37ff3f80d0e2b48f8a41c22ece0e5783fc5c555cf50615b25555b0e1bc3fa7fd6e87ecb18cf1abc9c9f6f89e1bc</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      For juk
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019结束与2020的启航</title>
+    <link href="http://yoursite.com/2020/01/18/2019%E7%BB%93%E6%9D%9F%E4%B8%8E2020%E7%9A%84%E5%90%AF%E8%88%AA/"/>
+    <id>http://yoursite.com/2020/01/18/2019%E7%BB%93%E6%9D%9F%E4%B8%8E2020%E7%9A%84%E5%90%AF%E8%88%AA/</id>
+    <published>2020-01-18T12:01:26.000Z</published>
+    <updated>2020-01-18T12:49:27.125Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2019结束与2020的启航"><a href="#2019结束与2020的启航" class="headerlink" title="2019结束与2020的启航"></a>2019结束与2020的启航</h1><hr><h2 id="逃离"><a href="#逃离" class="headerlink" title="逃离"></a>逃离</h2><p>  终究还是逃不过长大，从小心心念念的长大。</p><p>  2019我经历了从大二下和大三上的洗刷，最终知道了自己该怎么长大。</p><p>  从小自视甚高，以为自己非比寻常，喜欢另辟蹊径，但都没有坚持下来。思来想去，唯有吃喝玩乐相伴，也是一桩心事。</p><p>  心里有事，自然装不下其他，也难怪周围的人总说我有距离感。如果一直一个人，说不定还得拖个两三年，但肩膀上有了别人，自然就得想想今后的打算了。</p><p>  对于我而言，这终归是一场逃离舒适区的挑战。一边是生活的重担，一边是多年的心理负担，接下来该往哪走着实让我头痛。</p><p>  不过还好，前途是光明的，就是这曲折的道路如何通过，就要看2020年自己的表现了。</p><p>  大三下和大四上，实习、工作、租房，如果还在舒适区浑浑噩噩，恐怕有些东西就要逃离我了。</p><h2 id="学校"><a href="#学校" class="headerlink" title="学校"></a>学校</h2><p>  大学校园的生活就要结束了，还是要尽快了结一些琐事，然后充分享受一下大学的点点滴滴。</p><p>  下学期仅剩两门学校的半自主课程没有修读，着实让人开心，但学年论文这个东西真是有些头痛。</p><p>  目前看来，还是要和导师沟通一下相关选题。</p><p>  论文的相关内容学习在寒假期间也不能荒废，虽然书带回来了，但不代表内容到脑子里了。论文的选题也是个大问题，还是要做个计划，参考一下知乎里面的科研论文建议。一旦定下题目，假期写一部分，开学后让老师审查，不能让老师等。</p><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>  大三上真的是忙忙碌碌就过去了，如果没有计划，时间真的很快。</p><p>  不得不说，人生大部分时间都在继续能量，就是为了那么几个高光时刻，如果平时不努力，那连机会的影子也见不到。</p><p>  大三的学习有一说一，只有上半学期的操作系统属于基础课程，其余的则不足为外人道也。但就这些东西，也把我累得够呛，需要深深的反思自己把珍贵的时间用到哪里去了，为什么总是在紧要关头才让自己动起来。</p><p>  2020年是人生的一大转折点，考研的同学要考研，工作的同学要准备大四的实习了。对于我个人而言，预计三月份要准备一份实习，寒假期间必须争分夺秒的学习一门编程技术。</p><p>  开学以后要去学车，尽可能地在3月中旬之前拿到驾证。</p><h2 id="技术展望"><a href="#技术展望" class="headerlink" title="技术展望"></a>技术展望</h2><ul><li>掌握HTML、CSS、JS，达到面试的基础水平</li><li>熟练运用Python，以此来弥补自己后端的技术</li><li>leetcode刷题破百~</li><li>读完c prime plus英文版</li><li>读完深入理解计算机系统</li><li>读完算法（第四版）</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;2019结束与2020的启航&quot;&gt;&lt;a href=&quot;#2019结束与2020的启航&quot; class=&quot;headerlink&quot; title=&quot;2019结束与2020的启航&quot;&gt;&lt;/a&gt;2019结束与2020的启航&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&quot;逃离&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/01/18/hello-world/"/>
+    <id>http://yoursite.com/2020/01/18/hello-world/</id>
+    <published>2020-01-18T10:05:41.662Z</published>
+    <updated>2020-01-18T10:05:41.662Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
